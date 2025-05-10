@@ -16,5 +16,5 @@ This repository contains the code and models for an AI chat system. The project 
 ### Installation
 ```bash
 git clone https://github.com/deribv1t/neiro-chat.git
-cd Neiro--
+cd neiro-chat
 ```
